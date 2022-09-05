@@ -6,8 +6,8 @@
     - Margin & Padding
     - Tailblocks
     - Mamba UI
-It Was a Great Experience Completing This Project After Continuous 
-Frustrating Hardwork Completed in 24hrs.
+    It Was a Great Experience Completing This Project After Continuous 
+    Frustrating Hardwork Completed in 18hrs.
 
 ## Shopify Clone Screenshots
 ![image](./Shopify%20SS1.png)
